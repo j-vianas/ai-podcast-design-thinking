@@ -4,7 +4,12 @@
 
 > Um podcast criado com apoio de Inteligência Artificial para explorar como o Design Thinking pode ser aplicado a problemas, ideias e projetos presentes na vida cotidiana.
 
-[Capa do podcast]
+<p align="center">
+<img 
+    src="./assets/Ponto a Ponto_ Design Thinking.png"
+    width="300"
+/>
+</p>
 
 ## 🎧 Preview
 
