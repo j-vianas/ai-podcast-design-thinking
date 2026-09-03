@@ -14,7 +14,7 @@
 **Duração:** aproximadamente 30–35 minutos
 **Idioma:** Português brasileiro
 
-[▶️ Ouvir o episódio] (
+[[▶️ Ouvir o episódio]](https://github.com/j-vianas/ai-podcast-design-thinking/blob/caed83af576d2f03b56639493db66908aa137f83/output/Video%20Project%202.m4a)
 ---
 
 ## 💡 Sobre o projeto
@@ -126,24 +126,22 @@ A conclusão retoma a ideia central do episódio: antes de tentar resolver um pr
 ├── prompts/
 │   ├── 01-nome.md
 │   ├── 02-roteiro.md
-│   ├── 03-identidade-visual.md
-│   └── 05-audio.md
+│   ├── 03-capa.md
+│   └── 05-TrilhaSonora.md
 │
 ├── roteiro/
+│   └── _modelo.md
 │   └── episodio-01.md
 │
-├── referencias/
-│   └── ...
-│
 └── output/
-    └── episodio-01.mp3
+    └── Video Project 2.m4a
 ```
 
 ---
 
 ## 🔄 Como reproduzir o projeto
 
-A documentação dos prompts está disponível na pasta [pasta de prompts].
+A documentação dos prompts está disponível na pasta [[prompts]](https://github.com/j-vianas/ai-podcast-design-thinking/tree/038ea3d8385c2a7fe648d2bb4770b4073e946465/prompts).
 
 Para reproduzir o processo:
 
@@ -162,15 +160,15 @@ A ideia é que o processo possa ser adaptado para a criação de novos episódio
 
 ## 📚 Materiais
 
-* **Prompts utilizados:** [`/prompts`](./prompts)
-* **Roteiro do episódio:** [`/roteiro`](./roteiro)
-* **Produto final:** [`/output`](./output)
+* **Prompts utilizados:** [[prompts]](https://github.com/j-vianas/ai-podcast-design-thinking/tree/038ea3d8385c2a7fe648d2bb4770b4073e946465/prompts)
+* **Roteiro do episódio:** [[roteiro]](https://github.com/j-vianas/ai-podcast-design-thinking/tree/038ea3d8385c2a7fe648d2bb4770b4073e946465/roteiro)
+* **Produto final:** [[output]](https://github.com/j-vianas/ai-podcast-design-thinking/tree/038ea3d8385c2a7fe648d2bb4770b4073e946465/output)
 
 ---
 
-## 🎓 Contexto acadêmico
+## 🎓 Contexto
 
-Este projeto foi desenvolvido como uma **atividade prática de um curso/bootcamp da DIO**, com foco na aplicação de conhecimentos relacionados à utilização de Inteligência Artificial e engenharia de prompts.
+Este projeto foi desenvolvido como uma **atividade prática do bootcamp "Universia - Fundamentos de IA Generativa 2026" na DIO**, com foco na aplicação de conhecimentos relacionados à utilização de Inteligência Artificial e engenharia de prompts.
 
 O objetivo da atividade não foi apenas gerar um conteúdo utilizando IA, mas **documentar e estruturar o processo de criação**, permitindo compreender como diferentes prompts e ferramentas podem ser combinados para produzir um resultado final.
 
